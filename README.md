@@ -11,3 +11,5 @@ This repo has a javascript player which will run a guide on google.com
   - Under **Snippets** section, Click **+New Snippet** 
   - Paste the contents of **player.js** file inside snippet and **Save**
   - Right Click the saved snippet and click **Run**, The tooltip guide will start in the screen.
+ 
+Instructions demo youtube link - https://www.youtube.com/watch?v=TiwbLb5ch_w&feature=youtu.be
